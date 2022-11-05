@@ -6,6 +6,10 @@ Javascript <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/J
 
 `console.log("JavaScript");`
 
+Haxe <img src="https://api.haxeflixel.com/favicon.ico" alt="" data-canonical-src="https://api.haxeflixel.com/favicon.ico" width="16" height="16" />:
+
 `haxe.log.trace("Haxe w/ OpenFL and HaxeFlixel");`
+
+Web 🌐:
 
 `<h1 style="font-family: sans-serif">HTML and CSS!</h1>`
