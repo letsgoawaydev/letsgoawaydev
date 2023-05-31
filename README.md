@@ -14,4 +14,4 @@ What I program in:
 
 `<h1 style="font-family: sans-serif">HTML and CSS!</h1>`
 
-Learning C#!
+Learning C++!
