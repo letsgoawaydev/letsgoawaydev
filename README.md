@@ -15,3 +15,4 @@ What I program in:
 `<h1 style="font-family: sans-serif">HTML and CSS!</h1>`
 
 and ☕️ Java!
+`System.out.println("Java, mostly Minecraft related stuff");`
