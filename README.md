@@ -1,4 +1,4 @@
-My site: https://letsgoaway.neocities.org/
+My site: https://letsgoaway.dev/
 
 What I program in:
 
